@@ -23,4 +23,3 @@ int main(int argc, char** argv) {
     framebuffer.write_tga_file("framebuffer.tga");
     return 0;
 }
-
